@@ -1,0 +1,6 @@
+-- vim.cmd "set fillchars+=vert:│"
+-- vim.cmd "colorscheme darkspace"
+-- vim.cmd "colorscheme monochrome"
+-- vim.cmd "colorscheme gruvbox"
+vim.cmd "colorscheme afterglow"
+vim.cmd "hi Normal guibg=NONE ctermbg=NONE"
